@@ -1,3 +1,6 @@
+An awesome airbnb clone created in next js.In this we have craeted home page and search page with date picking functionality.Also in search page we integrate mapbox.
+All data in search page are coming from server side rendering.We used lot of animations for great user experience .Its responsive on all devices.
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
